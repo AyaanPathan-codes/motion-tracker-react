@@ -40,11 +40,11 @@ Displays a live log of detected motion with timestamp and pixel intensity
 Toggle between dark and light themes for better UX
 
 📷 Screenshots
-![screenshot](<Screenshot 2025-06-20 114330.png>)
-![screenshot](<Screenshot 2025-06-20 114540.png>)
-![screenshot](<Screenshot 2025-06-20 115242.png>)
-![screenshot](<Screenshot 2025-06-20 115258.png>)
-![screenshot](<Screenshot 2025-06-20 115307.png>)
+![Screenshot 1](src/assets/images/Screenshot%202025-06-20%20114330.png)
+![Screenshot 2](src/assets/images/Screenshot%202025-06-20%20114540.png)
+![Screenshot 3](src/assets/images/Screenshot%202025-06-20%20115242.png)
+![Screenshot 4](src/assets/images/Screenshot%202025-06-20%20115258.png)
+![Screenshot 5](src/assets/images/Screenshot%202025-06-20%20115307.png)
 
 
 🖼️ Dashboard UI
