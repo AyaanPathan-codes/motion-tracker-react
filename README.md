@@ -36,8 +36,6 @@ View saved clips directly within the UI
 📃 Motion Logs
 Displays a live log of detected motion with timestamp and pixel intensity
 
-Project Live On - https://motion-tracker-react.netlify.app/
-
 🎨 Dark/Light Mode
 Toggle between dark and light themes for better UX
 
